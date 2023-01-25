@@ -61,7 +61,7 @@ const questionState = {
       "order": 14
     },
     {
-      "question": "Você considera decisões gerenciais algo atrativo para trabalhar no dia-a-dia?",
+      "question": "Você considera decisões gerenciais algo atrativo para trabalhar no dia a dia?",
       "order": 15
     },
     {
